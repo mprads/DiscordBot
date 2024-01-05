@@ -1,0 +1,2 @@
+# DiscordBot
+Boilerplate discord bot
